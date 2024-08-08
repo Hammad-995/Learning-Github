@@ -1,4 +1,4 @@
 # Learning-Github
 This repository is for learning purposes of GitHub
 <br>
-Lorem ipsum dolor sit amet. Ut quia neque aut quae nihil 33 porro laborum. 
+Pt some words of Lorem Ipsum in here just to give the demo 
